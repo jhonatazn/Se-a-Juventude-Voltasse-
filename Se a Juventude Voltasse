@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Se a Juventude Voltasse</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            background: #6200ea;
+            color: #fff;
+            padding: 20px 0;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #6200ea;
+            color: #fff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Se a Juventude Voltasse</h1>
+    </header>
+    <main>
+        <p>
+            Ah, se a juventude voltasse<br>
+            Com seu riso leve e sincero,<br>
+            O mundo seria mais belo,<br>
+            Um eterno sonho que espero.
+        </p>
+        <p>
+            Se pudesse sentir outra vez<br>
+            O pulsar do coração acelerado,<br>
+            As noites seriam tão curtas<br>
+            E o tempo nunca, jamais apressado.
+        </p>
+        <p>
+            Mas a vida ensina em silêncio,<br>
+            Que cada fase tem sua vez.<br>
+            E na memória, a juventude<br>
+            É eterna, onde o amor se fez.
+        </p>
+    </main>
+    <footer>
+        <p>&copy; 2024 - Brayan de Queiroz Kiene</p>
+    </footer>
+</body>
+</html>
